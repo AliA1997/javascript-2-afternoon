@@ -33,7 +33,7 @@ let favoriteThings = {
   band: 'Rage Against the Machine',
   food: 'Sushi',
   person: 'Steve Jobs',
-  book: 'Biography of Muhammad mpbuh',
+  book: 'Biography',
   movie: 'Rush Hour 3',
   holiday: 'Eid Mubarak'
 }
@@ -55,7 +55,7 @@ favoriteThings['brand'] = 'Levi\'s';
 //Code here
 
 favoriteThings.food = 'Chicken Nuggets';
-
+favoriteThings.book = 'Harry Potter';
 ////////// PROBLEM 3 //////////
 
 /* 
